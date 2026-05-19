@@ -43,7 +43,7 @@ export const HeroSection = () => {
         <div className="w-full overflow-hidden mt-6 sm:mt-4 md:-mt-5 relative z-0">
           <FadeIn y={40} delay={0.15}>
             <h1 className="hero-heading font-black uppercase tracking-tight leading-none whitespace-nowrap w-full text-center text-[14vw] sm:text-[15vw] md:text-[16vw] lg:text-[17.5vw]">
-              Hi, i&apos;m GOKULAN
+              Hi, i&apos;m GKLN
             </h1>
           </FadeIn>
         </div>
