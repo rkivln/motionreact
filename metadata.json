@@ -1,0 +1,8 @@
+{
+  "name": "Jack - 3D Creator Portfolio",
+  "description": "A high-end 3D creator portfolio landing page with sticky stacking cards, scroll animations, and magnetic effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
